@@ -1,0 +1,15 @@
+{
+  "name": "dev-town-tuts-slickchat-auth",
+  "version": "1.0.0",
+  "author": "Andy Russell",
+  "description": "API gateway endpoints with auth0",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0",
+    "jwks-rsa": "^1.8.1",
+    "serverless-dotenv-plugin": "^3.0.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.9.1"
+  }
+}
