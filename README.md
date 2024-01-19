@@ -1,6 +1,7 @@
 # Slick Chat - Serverless Auth
 
-Slick Chat Serverless Auth Service - for use as part of the Slick Chat Tutorial.
+Slick Chat Serverless Auth Service - for use as part of the Dev Town "Slick Chat" course.
+
 
 ## An example of the environment vars is defined in env.example
 
